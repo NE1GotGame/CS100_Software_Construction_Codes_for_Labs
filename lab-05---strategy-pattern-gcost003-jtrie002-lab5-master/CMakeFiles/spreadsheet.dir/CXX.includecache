@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/csmajs/jtrie002/lab-05---strategy-pattern-gcost003-jtrie002-lab5/select.hpp
+cstring
+-
+
+/home/csmajs/jtrie002/lab-05---strategy-pattern-gcost003-jtrie002-lab5/spreadsheet.cpp
+spreadsheet.hpp
+/home/csmajs/jtrie002/lab-05---strategy-pattern-gcost003-jtrie002-lab5/spreadsheet.hpp
+select.hpp
+/home/csmajs/jtrie002/lab-05---strategy-pattern-gcost003-jtrie002-lab5/select.hpp
+algorithm
+-
+iostream
+-
+vector
+-
+
+/home/csmajs/jtrie002/lab-05---strategy-pattern-gcost003-jtrie002-lab5/spreadsheet.hpp
+string
+-
+initializer_list
+-
+vector
+-
+iosfwd
+-
+
